@@ -1,0 +1,7 @@
+C:\Users\Cah\Desktop\OKURACAH\Exercicios\C# - Unity\Sine Cosine\Sine Cosine\bin\Debug\Sine Cosine.exe.config
+C:\Users\Cah\Desktop\OKURACAH\Exercicios\C# - Unity\Sine Cosine\Sine Cosine\bin\Debug\Sine Cosine.exe
+C:\Users\Cah\Desktop\OKURACAH\Exercicios\C# - Unity\Sine Cosine\Sine Cosine\bin\Debug\Sine Cosine.pdb
+C:\Users\Cah\Desktop\OKURACAH\Exercicios\C# - Unity\Sine Cosine\Sine Cosine\obj\Debug\Sine Cosine.csproj.AssemblyReference.cache
+C:\Users\Cah\Desktop\OKURACAH\Exercicios\C# - Unity\Sine Cosine\Sine Cosine\obj\Debug\Sine Cosine.csproj.CoreCompileInputs.cache
+C:\Users\Cah\Desktop\OKURACAH\Exercicios\C# - Unity\Sine Cosine\Sine Cosine\obj\Debug\Sine Cosine.exe
+C:\Users\Cah\Desktop\OKURACAH\Exercicios\C# - Unity\Sine Cosine\Sine Cosine\obj\Debug\Sine Cosine.pdb
